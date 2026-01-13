@@ -1,0 +1,4 @@
+[submodule "paris-aws-cloud-club"]
+	path = external/paris-aws-cloud-club
+	url = https://github.com/DSTI-AWS-Cloud-Club/paris-aws-cloud-club.git
+	branch = main
