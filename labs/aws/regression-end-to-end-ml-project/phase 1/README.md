@@ -3,6 +3,7 @@ Integrate a ML artifact into S3 and using Lambda call through an API
 
 ## Steps
 
+<<<<<<< HEAD
 ### 0.Clone the repository
 Create a folder in your local system and clone the repository:
 
@@ -16,6 +17,23 @@ uv sync
 ```
 
 #### 1.1 Activate environment
+=======
+Clone the repository
+
+```
+uv init
+
+uv python install 3.11
+
+uv python pin 3.11
+
+uv add ---
+
+
+```
+
+Activate environment
+>>>>>>> ab11e4d01db7161cd13f2eb46e520653dfee3e77
 
 On Windows:
 `.\.venv\Scripts\activate.ps1`  
@@ -24,6 +42,7 @@ On Linux:
 
 `source .venv/bin/activate`
 
+<<<<<<< HEAD
 ### 2. Get the data
 Open `phase 1\notebooks\00_download_data.ipynb`
 
@@ -44,6 +63,8 @@ data/
 ```
 
 ### 3. 
+=======
+>>>>>>> ab11e4d01db7161cd13f2eb46e520653dfee3e77
 
 ## The AWS services involved
 
