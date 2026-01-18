@@ -45,7 +45,7 @@ data/
     └── (model files go here, e.g. trained-model.pkl)
 ```
 
-### 3. 
+### 3. Push to S3
 
 ## The AWS services involved
 
