@@ -1,4 +1,4 @@
-[submodule "paris-aws-cloud-club"]
-	path = external/paris-aws-cloud-club
-	url = https://github.com/DSTI-AWS-Cloud-Club/paris-aws-cloud-club.git
+[submodule "regression-end-to-end-ml-project"]
+	path = regression-end-to-end-ml-project
+	url = https://github.com/DSTI-AWS-Cloud-Club/paris-aws-cloud-club/tree/main/labs/aws/regression-end-to-end-ml-project.git
 	branch = main
