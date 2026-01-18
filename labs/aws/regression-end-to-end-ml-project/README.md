@@ -34,6 +34,7 @@ The division is as follows:
 - **Application Load Balancer**: Traffic distribution and routing
 - **CI/CD Pipeline**: Automated deployment via GitHub Actions
 
+<<<<<<< HEAD
 ## Pre-requisites
 1. An IDE (VSCode, PyCharm) that has **Colab** extension installed
 2. Make sure `uv` is installed in your computer. If not installed go [here](https://docs.astral.sh/uv/getting-started/installation/#__tabbed_1_1) and install it depending on your OS. 
@@ -41,4 +42,6 @@ The division is as follows:
           You should have a response starting with *"An extremely fast Python package manager..."*
 3. 
 4. er
+=======
+>>>>>>> ab11e4d01db7161cd13f2eb46e520653dfee3e77
 

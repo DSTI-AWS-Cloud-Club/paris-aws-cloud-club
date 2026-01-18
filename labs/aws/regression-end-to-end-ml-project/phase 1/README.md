@@ -3,6 +3,7 @@ Integrate a ML artifact into S3 and using Lambda call through an API
 
 ## Steps
 
+
 ### 0.Clone the repository
 Create a folder in your local system and clone the repository:
 
@@ -23,6 +24,7 @@ On Windows:
 On Linux:
 
 `source .venv/bin/activate`
+
 
 ### 2. Get the data
 Open `phase 1\notebooks\00_download_data.ipynb`
