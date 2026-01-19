@@ -1,4 +1,0 @@
-[submodule "regression-end-to-end-ml-project"]
-	path = regression-end-to-end-ml-project
-	url = https://github.com/DSTI-AWS-Cloud-Club/paris-aws-cloud-club/tree/main/labs/aws/regression-end-to-end-ml-project.git
-	branch = main
