@@ -1,0 +1,3 @@
+[submodule "labs/aws/regression-end-to-end-ml-project"]
+	path = labs/aws/regression-end-to-end-ml-project
+	url = https://github.com/DSTI-AWS-Cloud-Club/regression-end-to-end-ml-project
